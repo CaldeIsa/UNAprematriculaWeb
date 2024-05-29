@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82FAC439-ABCB-4AFB-9B1D-BD8707686D79}|UNAprematriculaWeb\\UNAprematriculaWeb.csproj|c:\\users\\isaac\\documents\\github\\unaprematriculaweb\\unaprematriculaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82FAC439-ABCB-4AFB-9B1D-BD8707686D79}|UNAprematriculaWeb\\UNAprematriculaWeb.csproj|solutionrelative:unaprematriculaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FAC439-ABCB-4AFB-9B1D-BD8707686D79}|UNAprematriculaWeb\\UNAprematriculaWeb.csproj|c:\\users\\isaac\\documents\\github\\unaprematriculaweb\\unaprematriculaweb\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82FAC439-ABCB-4AFB-9B1D-BD8707686D79}|UNAprematriculaWeb\\UNAprematriculaWeb.csproj|solutionrelative:unaprematriculaweb\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FAC439-ABCB-4AFB-9B1D-BD8707686D79}|UNAprematriculaWeb\\UNAprematriculaWeb.csproj|c:\\users\\isaac\\documents\\github\\unaprematriculaweb\\unaprematriculaweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FAC439-ABCB-4AFB-9B1D-BD8707686D79}|UNAprematriculaWeb\\UNAprematriculaWeb.csproj|solutionrelative:unaprematriculaweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FAC439-ABCB-4AFB-9B1D-BD8707686D79}|UNAprematriculaWeb\\UNAprematriculaWeb.csproj|c:\\users\\isaac\\documents\\github\\unaprematriculaweb\\unaprematriculaweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{82FAC439-ABCB-4AFB-9B1D-BD8707686D79}|UNAprematriculaWeb\\UNAprematriculaWeb.csproj|solutionrelative:unaprematriculaweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\UNAprematriculaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UNAprematriculaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\UNAprematriculaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UNAprematriculaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T21:10:42.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\UNAprematriculaWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UNAprematriculaWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\UNAprematriculaWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UNAprematriculaWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:09:47.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\UNAprematriculaWeb\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "UNAprematriculaWeb\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\UNAprematriculaWeb\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "UNAprematriculaWeb\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T06:50:29.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\UNAprematriculaWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "UNAprematriculaWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\UNAprematriculaWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "UNAprematriculaWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-03T06:45:02.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

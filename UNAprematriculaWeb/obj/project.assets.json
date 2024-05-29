@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaac\\source\\repos\\UNAprematriculaWeb\\UNAprematriculaWeb\\UNAprematriculaWeb.csproj",
+      "projectUniqueName": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\UNAprematriculaWeb\\UNAprematriculaWeb.csproj",
       "projectName": "UNAprematriculaWeb",
-      "projectPath": "C:\\Users\\isaac\\source\\repos\\UNAprematriculaWeb\\UNAprematriculaWeb\\UNAprematriculaWeb.csproj",
+      "projectPath": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\UNAprematriculaWeb\\UNAprematriculaWeb.csproj",
       "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaac\\source\\repos\\UNAprematriculaWeb\\UNAprematriculaWeb\\obj\\",
+      "outputPath": "C:\\Users\\isaac\\Documents\\GitHub\\UNAprematriculaWeb\\UNAprematriculaWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isaac\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UNAprematriculaWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d9ed6274741d140f38014b79f69ad9cd2ab141e")]
 [assembly: System.Reflection.AssemblyProductAttribute("UNAprematriculaWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UNAprematriculaWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
